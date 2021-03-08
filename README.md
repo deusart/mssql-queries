@@ -1,2 +1,2 @@
-# sql-server-queries
+# mssql-queries
 SQL Queries repository
